@@ -1,0 +1,19 @@
+{
+  "name": "semestral",
+  "version": "1.0.0",
+  "description": "./find_similar.py coffee315 linear__data_storage ~ 1s",
+  "main": "main.js",
+  "dependencies": {
+    "koa": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.fit.cvut.cz:houskvo2/vwm.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
