@@ -127,8 +127,6 @@ Since document is referenced only by those terms which dispose of non zero weigh
 
 ## Discussion:
 
-
-
 Our implementation is not really best in terms of precision. Actually, we could not even test that to our satisfaction, there is not simple way of acquiring big and meaningfull enough dataset, which we could test and see some objective results. We tested our solution on dataset of 25 documents, which came out pretty good, but we are not sure if it wasnt coincidence. Next we proceeded to test it out on Reuters dataset limited to about 2.5 k articles, 50 articles on category at max. But due to nature of this dataset, testing wasnt really proving anything, except really weird kind of bug.
 Simply, many documents consisting of 20 words is not good enough, we think.
 As a proof of concept, it was great, we both got some really useful insights into this toppic. It was interesting and funny procedure, 10/10 would do it again.
